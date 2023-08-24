@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/ass.dir/main.cpp.o -o ass  -Wl,-rpath,/mnt/c/Users/Cecil/Documents/vscode-workspace/assimptest/build/lib/assimp/bin lib/assimp/bin/libassimp.so.5.2.5 lib/assimp/contrib/zlib/libzlibstatic.a -lrt 
